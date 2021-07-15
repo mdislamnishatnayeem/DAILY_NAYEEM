@@ -1,7 +1,7 @@
 	    presentation worked lists---(Post Completed/Not)
 -------------------------------------------------------------------
 page1------->Post Completed 😄  
-page2------->Not
+page2------->Post Completed 😄  
 page3------->Not
 page4------->Not
 page5------->Not
