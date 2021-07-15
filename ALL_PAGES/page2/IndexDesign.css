@@ -20,7 +20,7 @@
     .middlebar{
         background:#e7e9eb;
         color:black;
-        height: 500px;
+        height: 1500px;
         margin-top:1%;
         margin-left:1%;
         margin-right:1%;
@@ -73,6 +73,12 @@
         font-size:20px;
         font-weight: bold;
     }
+    .middlebar video{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 57%;
+    }
        
     
 
@@ -111,7 +117,7 @@
 
     .middlebar{
         background:#e7e9eb;
-        height: 700px;
+        height: 1300px;
         margin-left:1%;
         margin-right:1px;
         width:100%;
@@ -162,7 +168,12 @@
         font-size:17px;
         font-weight: bold;
     }
-    
+    .middlebar video{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:59%;
+    }
 
   
     
@@ -209,7 +220,7 @@
 
     .middlebar{
         background:#e7e9eb;
-        height: 500px;
+        height: 1500px;
         margin-left:1%;
         margin-right:1px;
         width:100%;
@@ -259,6 +270,13 @@
         text-decoration:none;
         font-size:17px;
         font-weight: bold;
+    }
+    .middlebar video{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:100%;
+
     }
     
 
