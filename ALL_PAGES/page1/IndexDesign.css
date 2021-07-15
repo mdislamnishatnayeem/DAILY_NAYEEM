@@ -91,6 +91,12 @@
 /* Medium devices (landscape tablets, 850px and up) */
 
 @media only screen and (max-width:850px) {
+    
+    *{
+        box-sizing:border-box;
+     }
+
+
     body{
         padding: 0px;
         margin:0px;
@@ -189,6 +195,12 @@
 /* Medium devices (landscape tablets,600px and up) */
 
 @media only screen and (max-width:600px) {
+   
+    *{
+        box-sizing:border-box;
+     }
+
+
     body{
         padding: 0px;
         margin:0px;
