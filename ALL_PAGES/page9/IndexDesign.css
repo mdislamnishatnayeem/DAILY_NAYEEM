@@ -51,9 +51,10 @@
         float: left;
         font-size:16px;
         padding:20px;
-        font-weight:800;
+        font-weight:normal;
         font-family: 'Cabin', sans-serif;
-        font-family: 'Hind Siliguri', sans-serif;
+        
+        
         
         
     }
@@ -162,7 +163,7 @@
         float: left;
         font-size: 15px;
         padding: 10px;
-        font-weight:800;
+        font-weight:normal;
         font-family: 'Cabin', sans-serif;
         font-family: 'Hind Siliguri', sans-serif;
         
@@ -281,7 +282,7 @@
         border-color:#ecf4fc;
         border-top-right-radius:1%;
         float: left;
-        font-size: 15px;
+        font-size: 16px;
         padding:15px;
        
         font-weight:normal;
@@ -406,9 +407,10 @@
         text-align: justify;
         border-radius:0%;
         float: left;
-        font-size: 15px;
+        font-size: 16px;
         padding:20px;
         font-family: serif;
+        font-weight:normal;
         
         
         
