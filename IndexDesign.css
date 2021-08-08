@@ -195,7 +195,7 @@
        border-style: solid;
        border-color:darkred;
        border-width: 1px;
-       border-radius:10px 10px 0px 0px;
+       border-radius:0px 0px 0px 0px;
        display: inline-block;
        background-size: cover;
        word-wrap: break-word;
